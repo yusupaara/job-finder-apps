@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "expo-job",
-    "slug": "expo-job"
+    "slug": "expo-job",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0af249ab-386c-4e57-9133-dc79af96c6b0"
+      }
+    },
+    "android": {
+      "package": "com.splmdny.expojob"
+    }
   }
 }
